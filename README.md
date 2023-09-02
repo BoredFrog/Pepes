@@ -6,3 +6,6 @@ It isn't finished so you need Unity 2020.1.15f1 to open it, edit it, play it and
 All assets are in there, maybe someday I'll finish an Alpha Version
 
 PS: Los quiero pepes.
+
+GO TO THIS LINK TO DOWNLOAD THE PROJECT
+https://boredfrog.itch.io/pepes
